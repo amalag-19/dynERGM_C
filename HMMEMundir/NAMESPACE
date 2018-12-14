@@ -1,0 +1,3 @@
+useDynLib(HMMEMundir)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

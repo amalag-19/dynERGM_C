@@ -1,0 +1,3 @@
+useDynLib(TERGMundir)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
